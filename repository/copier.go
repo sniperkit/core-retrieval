@@ -1,13 +1,17 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package repository
 
 import (
+	"context"
 	"io"
 	"os"
 	"path"
 	"path/filepath"
 	"strings"
-
-	"context"
 
 	"github.com/colinmarc/hdfs"
 	"gopkg.in/src-d/go-billy.v4"

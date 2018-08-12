@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Package repository implements services to work with Git repository storage.
 package repository
 

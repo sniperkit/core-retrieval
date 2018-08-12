@@ -1,10 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package test
 
 import (
 	"testing"
 
-	"gopkg.in/src-d/core-retrieval.v0/model"
-
+	"github.com/snk.fork.core-retrieval.v0/model"
 	"github.com/stretchr/testify/suite"
 )
 

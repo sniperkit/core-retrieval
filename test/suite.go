@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package test
 
 import (
@@ -9,10 +14,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"gopkg.in/src-d/core-retrieval.v0/schema"
-	"gopkg.in/src-d/framework.v0/database"
-
+	"github.com/snk.fork.core-retrieval.v0/schema"
 	"github.com/stretchr/testify/suite"
+	"gopkg.in/src-d/framework.v0/database"
 )
 
 type Suite struct {

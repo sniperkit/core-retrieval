@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package model
 
-import "gopkg.in/src-d/go-kallax.v1"
+import (
+	"gopkg.in/src-d/go-kallax.v1"
+)
 
 //go:generate kallax gen
 

@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package core
 
 import (
@@ -5,9 +10,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"gopkg.in/src-d/core-retrieval.v0/model"
-	"gopkg.in/src-d/core-retrieval.v0/repository"
-
+	"github.com/snk.fork.core-retrieval.v0/model"
+	"github.com/snk.fork.core-retrieval.v0/repository"
 	"gopkg.in/src-d/framework.v0/configurable"
 	"gopkg.in/src-d/framework.v0/database"
 	"gopkg.in/src-d/framework.v0/lock"
